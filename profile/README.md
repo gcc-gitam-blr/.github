@@ -1,4 +1,4 @@
-# GitHub Community Club (GCC) — GITAM Bengaluru
+# GitHub Community Club (GCC) - GITAM Bengaluru
 
 A student-run community at GITAM Bengaluru for learning Git, GitHub, and open source by building things together.
 
